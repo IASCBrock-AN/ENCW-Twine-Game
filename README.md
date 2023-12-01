@@ -3,4 +3,4 @@
 
 ## Play now
 
-Play The Torini Affair [here](https://IASCBrock-AN.github.io/ENCW-Twine-Game/The_Torini_Affair.html).
+Play The Torini Affair [here](https://iascbrock-an.github.io/ENCW-Twine-Game/The_Torini_Affair.html).
